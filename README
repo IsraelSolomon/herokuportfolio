@@ -1,0 +1,16 @@
+To create similar page.
+Open your IDE (mine was VSCode) and create these files.
+- Index.html
+- script.js
+- style.css
+- images folder where you will save all your images you will use for the site
+- index.php and composer.json
+
+After creating your site according to your liking put this code under the index.php
+- <?php include_once("index.html");?>
+
+and this brackets under composer.json {}
+
+Once done upload it to GIThub and go sign in to heroku. 
+Once signed in create new app and choose GIThub for deployment method.
+Then choose your repo and follow the instruction to finish deploying your app.
