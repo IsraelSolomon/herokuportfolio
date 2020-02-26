@@ -1,0 +1,35 @@
+
+#myNavbar {
+  border-bottom: orangered;
+  border-radius: 15px;
+}
+#section1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#myNavbar{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bkbutton {
+  position: absolute;
+  top: 50%;
+  left: 52%;
+  transform: translate(-40%, 230%);
+	display:inline-blck;
+	cursor:pointer;
+	color:#002fff;
+	font-family:Arial;
+  font-size:30px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.profilePic{
+  border-radius: 14px;
+  width: 20%;
+  height: auto;
+  align-self: auto;
+  float: left;
+  padding-right: 10px;
+}
+
